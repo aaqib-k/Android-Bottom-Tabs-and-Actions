@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NavActionBarLayout">
+        <attr name="tabBackgroundColor" format="color" />
+        <attr name="tabTextColor" format="color" />
+        <attr name="actionBackgroundColor" format="color" />
+        <attr name="actionBackgroundColorSelected" format="color" />
+        <attr name="actionTextColorPrimary" format="color" />
+        <attr name="actionTextColorSecondary" format="color" />
+        <attr name="tabHeight" format="dimension" />
+        <attr name="actionRadius" format="dimension" />
+    </declare-styleable>
+</resources>
