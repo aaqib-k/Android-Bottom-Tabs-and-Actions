@@ -1,4 +1,4 @@
-package com.aaqib.bottomnavigationaction;
+package com.github.aaqib786.bottomnavigationaction;
 
 public interface SelectionCallback {
     void onTabSelected(Item item, int containerResID);

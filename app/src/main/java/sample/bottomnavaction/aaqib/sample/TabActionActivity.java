@@ -5,10 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import com.aaqib.bottomnavigationaction.ActionPosition;
-import com.aaqib.bottomnavigationaction.Item;
-import com.aaqib.bottomnavigationaction.NavActionBarLayout;
-import com.aaqib.bottomnavigationaction.SelectionCallback;
+import com.github.aaqib786.bottomnavigationaction.Item;
+import com.github.aaqib786.bottomnavigationaction.NavActionBarLayout;
+import com.github.aaqib786.bottomnavigationaction.SelectionCallback;
 
 public class TabActionActivity extends AppCompatActivity {
 

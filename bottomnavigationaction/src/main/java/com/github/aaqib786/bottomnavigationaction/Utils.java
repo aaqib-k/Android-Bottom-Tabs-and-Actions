@@ -1,4 +1,4 @@
-package com.aaqib.bottomnavigationaction;
+package com.github.aaqib786.bottomnavigationaction;
 
 import android.content.Context;
 import android.content.res.Resources;

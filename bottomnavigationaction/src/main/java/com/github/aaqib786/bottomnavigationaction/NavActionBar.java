@@ -1,4 +1,4 @@
-package com.aaqib.bottomnavigationaction;
+package com.github.aaqib786.bottomnavigationaction;
 
 import android.content.Context;
 import android.content.res.Configuration;
@@ -15,6 +15,8 @@ import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
+
+import com.aaqib.bottomnavigationaction.R;
 
 class NavActionBar extends View {
 

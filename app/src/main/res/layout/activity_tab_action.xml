@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.aaqib.bottomnavigationaction.NavActionBarLayout
+    <com.github.aaqib786.bottomnavigationaction.NavActionBarLayout
         android:id="@+id/navActionLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
