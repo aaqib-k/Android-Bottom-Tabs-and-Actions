@@ -16,8 +16,6 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.aaqib.bottomnavigationaction.R;
-
 class NavActionBar extends View {
 
     private static final int DEFAULT_TAB_BACKGROUND_COLOR = Color.parseColor("#3F51B5");
